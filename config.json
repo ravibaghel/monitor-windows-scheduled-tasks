@@ -1,0 +1,22 @@
+[
+    {
+        "Server": "SERVER_NAME",
+        "Environment":"ENVIRONMENT_NAME",
+        "To":"ravibaghel@ravibaghel.com",
+        "From":"no-reply@ravibaghel.com",
+        "Cc":"",
+        "Jobs": [
+            {
+                "Name": "TASK_SCHEDULER_JOB_1"
+				
+            },
+            {
+                "Name": "TASK_SCHEDULER_JOB_2"
+            },
+            {
+                "Name": "TASK_SCHEDULER_JOB_3",
+                "Script": "SCRIPT_TO_EXECUTE"
+            }
+        ]
+    }
+]
