@@ -15,7 +15,7 @@
             },
             {
                 "Name": "TASK_SCHEDULER_JOB_3",
-                "Script": "SCRIPT_TO_EXECUTE"
+                "Script": "SCRIPT_TO_EXECUTE.ps1"
             }
         ]
     }
